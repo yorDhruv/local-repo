@@ -1,6 +1,10 @@
 #include <iostream>
 void doTask(){
+
     std::cout<<"doing that";
+
+    std::cout<<"doing this";
+
 }
 int main(){
     std::cout<<"Hello world"<<std::endl;
