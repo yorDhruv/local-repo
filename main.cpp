@@ -1,4 +1,7 @@
 #include <iostream>
+void doTask(){
+    std::cout<<"doing that";
+}
 int main(){
     std::cout<<"Hello world"<<std::endl;
     std::cout<<"Hello world1"<<std::endl;
